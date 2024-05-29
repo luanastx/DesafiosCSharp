@@ -1,0 +1,14 @@
+C:\Documentos\DesafiosCSharp\Exercicio02\bin\Debug\net8.0\Exercicio02.exe
+C:\Documentos\DesafiosCSharp\Exercicio02\bin\Debug\net8.0\Exercicio02.deps.json
+C:\Documentos\DesafiosCSharp\Exercicio02\bin\Debug\net8.0\Exercicio02.runtimeconfig.json
+C:\Documentos\DesafiosCSharp\Exercicio02\bin\Debug\net8.0\Exercicio02.dll
+C:\Documentos\DesafiosCSharp\Exercicio02\bin\Debug\net8.0\Exercicio02.pdb
+C:\Documentos\DesafiosCSharp\Exercicio02\obj\Debug\net8.0\Exercicio02.GeneratedMSBuildEditorConfig.editorconfig
+C:\Documentos\DesafiosCSharp\Exercicio02\obj\Debug\net8.0\Exercicio02.AssemblyInfoInputs.cache
+C:\Documentos\DesafiosCSharp\Exercicio02\obj\Debug\net8.0\Exercicio02.AssemblyInfo.cs
+C:\Documentos\DesafiosCSharp\Exercicio02\obj\Debug\net8.0\Exercicio02.csproj.CoreCompileInputs.cache
+C:\Documentos\DesafiosCSharp\Exercicio02\obj\Debug\net8.0\Exercicio02.dll
+C:\Documentos\DesafiosCSharp\Exercicio02\obj\Debug\net8.0\refint\Exercicio02.dll
+C:\Documentos\DesafiosCSharp\Exercicio02\obj\Debug\net8.0\Exercicio02.pdb
+C:\Documentos\DesafiosCSharp\Exercicio02\obj\Debug\net8.0\Exercicio02.genruntimeconfig.cache
+C:\Documentos\DesafiosCSharp\Exercicio02\obj\Debug\net8.0\ref\Exercicio02.dll
