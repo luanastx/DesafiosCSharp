@@ -12,3 +12,4 @@ C:\Documentos\DesafiosCSharp\Exercicio05\obj\Debug\net8.0\refint\Exercicio05.dll
 C:\Documentos\DesafiosCSharp\Exercicio05\obj\Debug\net8.0\Exercicio05.pdb
 C:\Documentos\DesafiosCSharp\Exercicio05\obj\Debug\net8.0\Exercicio05.genruntimeconfig.cache
 C:\Documentos\DesafiosCSharp\Exercicio05\obj\Debug\net8.0\ref\Exercicio05.dll
+C:\Documentos\DesafiosCSharp\Exercicio05\obj\Debug\net8.0\Exercicio05.sourcelink.json

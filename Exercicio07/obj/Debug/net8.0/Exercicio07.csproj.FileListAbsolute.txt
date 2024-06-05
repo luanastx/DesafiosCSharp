@@ -1,0 +1,15 @@
+C:\Documentos\DesafiosCSharp\Exercicio07\bin\Debug\net8.0\Exercicio07.exe
+C:\Documentos\DesafiosCSharp\Exercicio07\bin\Debug\net8.0\Exercicio07.deps.json
+C:\Documentos\DesafiosCSharp\Exercicio07\bin\Debug\net8.0\Exercicio07.runtimeconfig.json
+C:\Documentos\DesafiosCSharp\Exercicio07\bin\Debug\net8.0\Exercicio07.dll
+C:\Documentos\DesafiosCSharp\Exercicio07\bin\Debug\net8.0\Exercicio07.pdb
+C:\Documentos\DesafiosCSharp\Exercicio07\obj\Debug\net8.0\Exercicio07.GeneratedMSBuildEditorConfig.editorconfig
+C:\Documentos\DesafiosCSharp\Exercicio07\obj\Debug\net8.0\Exercicio07.AssemblyInfoInputs.cache
+C:\Documentos\DesafiosCSharp\Exercicio07\obj\Debug\net8.0\Exercicio07.AssemblyInfo.cs
+C:\Documentos\DesafiosCSharp\Exercicio07\obj\Debug\net8.0\Exercicio07.csproj.CoreCompileInputs.cache
+C:\Documentos\DesafiosCSharp\Exercicio07\obj\Debug\net8.0\Exercicio07.sourcelink.json
+C:\Documentos\DesafiosCSharp\Exercicio07\obj\Debug\net8.0\Exercicio07.dll
+C:\Documentos\DesafiosCSharp\Exercicio07\obj\Debug\net8.0\refint\Exercicio07.dll
+C:\Documentos\DesafiosCSharp\Exercicio07\obj\Debug\net8.0\Exercicio07.pdb
+C:\Documentos\DesafiosCSharp\Exercicio07\obj\Debug\net8.0\Exercicio07.genruntimeconfig.cache
+C:\Documentos\DesafiosCSharp\Exercicio07\obj\Debug\net8.0\ref\Exercicio07.dll
